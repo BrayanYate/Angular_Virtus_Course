@@ -24,6 +24,7 @@ git clone https://github.com/tu-usuario/Angular_Virtus_Course.git
 # Instalar dependencias
 cd Angular_Virtus_Course
 npm install
+```
 
 ## 📚 Estructura del Curso
 ### Módulo 1: Fundamentos
